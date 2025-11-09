@@ -26,7 +26,7 @@ I'm an independent Security researcher/auditor with a background in neuroscience
 
 - **Top 3 Finishes**: 0
 - **Top 10 Finishes**: 1
-- **Total High/Medium Findings**: 10+
+- **Total High/Medium Findings**: 15+
 - **Platforms**: Cantina, Sherlock,
 
 ---
