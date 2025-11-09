@@ -16,12 +16,11 @@ I'm an independent Security researcher/auditor with a background in neuroscience
 | Platform | Contest | Date | Rank | Findings | Protocol Type |
 |----------|---------|------|------|----------|---------------|
 | Sherlock | Dango DEX | Sep 2025 | TBD | TBD | DEX/AMM |
-| Cantina | Solayer-Bridge | Aug 2025 | 🥇 7th | 2H, 3M | Cross-chain Bridge |
+| Cantina | Solayer-Bridge | Aug 2025 | 7th | 2H, 3M | Cross-chain Bridge |
+| Sherlock | Super-DCA | Sep 2025 | 20th | 2H, 3M | TWAMM |
 | Sherlock | Notional | Jul 2025 | 22nd | 1H | Leveraged Yield |
 | Sherlock | LEND | Jun 2025 | 23rd | 1H, 1M | Lending |
 
-
-*Note: Update this table with your actual competition results*
 
 ### 📊 Competition Statistics
 
