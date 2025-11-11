@@ -37,8 +37,7 @@ I'm an independent Security researcher/auditor with a background in neuroscience
 - Ethereum (EVM), Solidity
 - Solana (Rust, Anchor)
 - StarkNet (Cairo)
-- Move VM (Aptos, Sui)
-- CosmWasm
+- Move VM
 
 **Security Tools & Frameworks**
 - Static Analysis: Slither, Aderyn
@@ -51,7 +50,7 @@ I'm an independent Security researcher/auditor with a background in neuroscience
 
 ### Educational Resources
 
-**1. [Heavyw8ts' ultimate repository for new (and not so new) auditors]** - [In development]
+**1. Heavyw8ts' ultimate repository for new (and not so new) auditors** - [In development]
 - Comprehensive guide to common vulnerability patterns
 - Includes examples and mitigation strategies
 - Curated post-mortems and write-ups
@@ -62,6 +61,6 @@ I'm an independent Security researcher/auditor with a background in neuroscience
 ## 📜 Contest platform profiles
 
 - [**Sherlock**](https://audits.sherlock.xyz/watson/heavyw8t)
-- [**Cantina**:](https://cantina.xyz/u/heavyw8t)
+- [**Cantina**](https://cantina.xyz/u/heavyw8t)
 
 ---
