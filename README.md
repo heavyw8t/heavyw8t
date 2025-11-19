@@ -31,6 +31,10 @@ I'm an independent Security researcher/auditor with a background in neuroscience
 
 ---
 
+### Judging
+
+- 29th All-time place on the Sherlock Community Judging leaderboard
+
 ### 🔧 Technical Stack
 
 **Blockchain Platforms**
