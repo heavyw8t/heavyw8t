@@ -33,6 +33,9 @@ I'm an independent Security researcher/auditor with a background in neuroscience
 
 ### Judging
 
+| Platform | Contest | Date |
+|----------|---------|------|
+| Cantina | Mento V3 | Dec 2025 |
 - 29th All-time place on the Sherlock Community Judging leaderboard
 
 ### 🔧 Technical Stack
