@@ -45,7 +45,7 @@ I'm an independent Security researcher/auditor with a background in neuroscience
 - Ethereum (EVM), Solidity
 - Solana (Rust, Anchor)
 - StarkNet (Cairo)
-- Move VM
+- Move
 - Grug
 
 **Security Tools & Frameworks**
