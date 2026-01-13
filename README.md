@@ -18,6 +18,7 @@ I'm an independent Security researcher/auditor with a background in neuroscience
 | Sherlock | Dango DEX | Sep 2025 | 🥈2 | 2H, 3M | DEX/AMM |
 | Cantina | Solayer-Bridge | Aug 2025 | 7th | 2H, 3M | Cross-chain Bridge |
 | Sherlock | Privacy Cash | Nov 2025 | 🥈2 | / | Mixer |
+| Dualguard | Alignerz | Nov 2025 | 10th | 7H, 3M | Token Launchpad |
 | Sherlock | Super-DCA | Sep 2025 | 20th | 2H, 3M | TWAMM |
 | Sherlock | Notional | Jul 2025 | 22nd | 1H | Leveraged Yield |
 | Sherlock | LEND | Jun 2025 | 23rd | 1H, 1M | Lending |
@@ -25,10 +26,10 @@ I'm an independent Security researcher/auditor with a background in neuroscience
 
 ### 📊 Competition Statistics
 
-- **Top 3 Finishes**: 1
-- **Top 10 Finishes**: 2
-- **Total High/Medium Findings**: 20+
-- **Platforms**: Cantina, Sherlock,
+- **Top 3 Finishes**: 2
+- **Top 10 Finishes**: 4
+- **Total High/Medium Findings**: 30+
+- **Platforms**: Cantina, Sherlock, Dualguard
 
 ---
 
