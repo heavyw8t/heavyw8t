@@ -35,6 +35,10 @@ I'm an independent Security researcher/auditor with a background in neuroscience
 
 ---
 
+### CTF
+
+Wonderland CTF Ethcc 2026 | 3rd Place
+
 ### Judging
 
 | Platform | Contest | Date |
