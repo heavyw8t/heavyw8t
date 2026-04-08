@@ -64,6 +64,10 @@ Wonderland CTF Ethcc 2026 | 3rd Place
 - Python and R for analysis
 ---
 
+### Open Source Project
+
+- The Judge, a high-accuracy false-positive filter for web3 security findings (https://github.com/heavyw8t/The-Judge)
+
 ### Educational Resources
 
 **1. Heavyw8ts' ultimate repository for new (and not so new) auditors** - [In development]
