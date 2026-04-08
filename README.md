@@ -60,7 +60,7 @@ Wonderland CTF Ethcc 2026 | 3rd Place
 - Testing/Fuzzing: Foundry, Hardhat, Anchor
 
 **Programming Languages**
-- Solidity, Rust, Cairo, Move
+- Solidity, Rust, Solana, Move, Cosmwasm
 - Python and R for analysis
 ---
 
