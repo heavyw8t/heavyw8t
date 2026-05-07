@@ -39,7 +39,7 @@ I'm an independent Security researcher/auditor with a background in neuroscience
 
 | Protocol | Agency | Protocol Type | Link |
 |----------|---------|------|------|
-| Divigent | OakSecurity | April 2026 | https://github.com/Divigent/divigent-protocol/blob/main/audits/2026-05-05%20Audit%20Report%20-%20Divigent%20v1.0.pdf |
+| Divigent | OakSecurity | April 2026 | [Report](https://github.com/Divigent/divigent-protocol/blob/main/audits/2026-05-05%20Audit%20Report%20-%20Divigent%20v1.0.pdf) |
 
 ### CTF
 
