@@ -35,6 +35,12 @@ I'm an independent Security researcher/auditor with a background in neuroscience
 
 ---
 
+### Private Audits
+
+| Protocol | Agency | Protocol Type | Link |
+|----------|---------|------|------|
+| Divigent | OakSecurity | April 2026 | https://github.com/Divigent/divigent-protocol/blob/main/audits/2026-05-05%20Audit%20Report%20-%20Divigent%20v1.0.pdf |
+
 ### CTF
 
 Wonderland CTF Ethcc 2026 | 3rd Place
