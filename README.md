@@ -13,16 +13,16 @@ I'm an independent Security researcher/auditor with a background in neuroscience
 
 ### 🥇 Competition Highlights
 
-| Platform | Contest | Date | Rank | Findings | Protocol Type |
-|----------|---------|------|------|----------|---------------|
-| Sherlock | Dango DEX | Sep 2025 | 🥈2 | 2H, 3M | DEX/AMM |
-| Sherlock | Rain | Feb 2026 | 🥇1 | Private | Token/Vault |
-| Cantina | Solayer-Bridge | Aug 2025 | 7th | 2H, 3M | Cross-chain Bridge |
-| Sherlock | Privacy Cash | Nov 2025 | 🥈2 | Private | Mixer |
-| Dualguard | Alignerz | Nov 2025 | 10th | 7H, 3M | Token Launchpad |
-| Sherlock | Super-DCA | Sep 2025 | 20th | 2H, 3M | TWAMM |
-| Sherlock | Notional | Jul 2025 | 22nd | 1H | Leveraged Yield |
-| Sherlock | LEND | Jun 2025 | 23rd | 1H, 1M | Lending |
+| Platform | Contest | Date | Rank | Findings | Protocol Type | Language/Ecosystem |
+|----------|---------|------|------|----------|---------------|--------------------|
+| Sherlock | Dango DEX | Sep 2025 | 🥈2 | 2H, 3M | DEX/AMM | Grug/Rust |
+| Sherlock | Rain | Feb 2026 | 🥇1 | Private | Token/Vault | Solidity/EVM |
+| Cantina | Solayer-Bridge | Aug 2025 | 7th | 2H, 3M | Cross-chain Bridge | Solana |
+| Sherlock | Privacy Cash | Nov 2025 | 🥈2 | Private | Mixer | Solana |
+| Dualguard | Alignerz | Nov 2025 | 10th | 7H, 3M | Token Launchpad | Solidity/EVM |
+| Sherlock | Super-DCA | Sep 2025 | 20th | 2H, 3M | TWAMM | Solidity/EVM |
+| Sherlock | Notional | Jul 2025 | 22nd | 1H | Leveraged Yield | Solidity/EVM |
+| Sherlock | LEND | Jun 2025 | 23rd | 1H, 1M | Lending | Solidity/EVM |
 
 
 ### 📊 Competition Statistics
@@ -37,9 +37,9 @@ I'm an independent Security researcher/auditor with a background in neuroscience
 
 ### Private Audits
 
-| Protocol | Agency | Protocol Type | Date | Link |
-|----------|---------|------|------|------|
-| Divigent | OakSecurity | Agentic Yield | April 2026 | [Report](https://github.com/Divigent/divigent-protocol/blob/main/audits/2026-05-05%20Audit%20Report%20-%20Divigent%20v1.0.pdf) |
+| Protocol | Agency | Protocol Type | Language | Date | Link |
+|----------|--------|---------------|----------|------|------|
+| Divigent | OakSecurity | Agentic Yield | Solidity | April 2026 | [Report](https://github.com/Divigent/divigent-protocol/blob/main/audits/2026-05-05%20Audit%20Report%20-%20Divigent%20v1.0.pdf) |
 
 ### CTF
 
