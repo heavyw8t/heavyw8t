@@ -20,6 +20,7 @@ I'm an independent Security researcher/auditor with a background in neuroscience
 | Cantina | Solayer-Bridge | Aug 2025 | 7th | 2H, 3M | Cross-chain Bridge | Solana |
 | Sherlock | Privacy Cash | Nov 2025 | 🥈2 | Private | Mixer | Solana |
 | Dualguard | Alignerz | Nov 2025 | 10th | 7H, 3M | Token Launchpad | Solidity/EVM |
+| Sherlock | Flying Tuplip | Jan 2026 | 11th | / | PUT Options | Solidity/EVM |
 | Sherlock | Super-DCA | Sep 2025 | 20th | 2H, 3M | TWAMM | Solidity/EVM |
 | Sherlock | Notional | Jul 2025 | 22nd | 1H | Leveraged Yield | Solidity/EVM |
 | Sherlock | LEND | Jun 2025 | 23rd | 1H, 1M | Lending | Solidity/EVM |
