@@ -52,7 +52,7 @@ Wonderland CTF Ethcc 2026 | 3rd Place
 |----------|---------|------|
 | Cantina | Mento V3 | Dec 2025 |
 
-- 65th All-time place on the Sherlock Community Judging leaderboard (
+- 65th All-time place on the Sherlock Community Judging leaderboard 
 - Triager at Zenith since June 2026
 
 ### 🔧 Technical Stack
