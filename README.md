@@ -15,7 +15,7 @@ I'm an independent Security researcher/auditor with a background in neuroscience
 
 | Platform | Contest | Date | Rank | Findings | Protocol Type | Language/Ecosystem |
 |----------|---------|------|------|----------|---------------|--------------------|
-| Codespect | EU Bonds Marketplace | Jun 2026 | 🥈1 | 1M | Orderbook/Account Abstraction | Solidity |
+| Codespect | EU Bonds Marketplace | Jun 2026 | 🥇1 | 1M | Orderbook/Account Abstraction | Solidity |
 | Sherlock | Dango DEX | Sep 2025 | 🥈2 | 2H, 3M | DEX/AMM | Grug/Rust |
 | Sherlock | Rain | Feb 2026 | 🥇1 | Private | Token/Vault | Solidity/EVM |
 | Cantina | Solayer-Bridge | Aug 2025 | 7th | 2H, 3M | Cross-chain Bridge | Solana |
