@@ -7,7 +7,7 @@
 ---
 
 ## About Me
-I'm an independent Security researcher/auditor with a background in neuroscience and data science. I specialize in defi protocols with a focus on Rust-based programming languages. I am also proficient in Solidity, Python, and have audited EVM-based protocols multiple times. I am a lead judge at Cantina.xyz, and have 30+ confirmed H/M  vulnerabilities in audit contests. 
+I'm an independent Security researcher/auditor with a background in neuroscience and data science. I specialize in DeFi protocols with a focus on Solidity and Rust-based programming languages. I am a lead judge at Cantina.xyz, triager at Zenith, and work with both Oaksecurity and Zenith as an auditor. I have achieved top positions in multiple audit contests, including two wins, two second places, and multiple top ten positions.   
 
 ## 🏆 Audit Competitions & Rankings
 
