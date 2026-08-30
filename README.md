@@ -42,6 +42,7 @@ I'm an independent Security researcher/auditor with a background in neuroscience
 | Protocol | Agency | Protocol Type | Language | Date | Link |
 |----------|--------|---------------|----------|------|------|
 | Divigent | OakSecurity | Agentic Yield | Solidity | April 2026 | [Report](https://github.com/oak-security/audit-reports/blob/main/Divigent/2026-05-15%20Audit%20Report%20-%20Divigent%20v1.1.pdf) |
+| TBA | OakSecurity | TBA | Solidity | July-August 2026 | TBA |
 
 ### CTF
 
