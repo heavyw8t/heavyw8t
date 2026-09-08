@@ -18,13 +18,14 @@ I'm an independent Security researcher/auditor with a background in neuroscience
 | Codespect | EU Bonds Marketplace | Jun 2026 | 🥇1 | 1M | Orderbook/Account Abstraction | Solidity |
 | Sherlock | Dango DEX | Sep 2025 | 🥈2 | 2H, 3M | DEX/AMM | Grug/Rust |
 | Sherlock | Rain | Feb 2026 | 🥇1 | Private | Token/Vault | Solidity/EVM |
-| Cantina | Solayer-Bridge | Aug 2025 | 7th | 2H, 3M | Cross-chain Bridge | Solana |
+| Cantina | Solayer-Bridge | Aug 2025 | 7 | 2H, 3M | Cross-chain Bridge | Solana |
 | Sherlock | Privacy Cash | Nov 2025 | 🥈2 | Private | Mixer | Solana |
-| Dualguard | Alignerz | Nov 2025 | 10th | 7H, 3M | Token Launchpad | Solidity/EVM |
-| Sherlock | Flying Tuplip | Jan 2026 | 11th | / | PUT Options | Solidity/EVM |
-| Sherlock | Super-DCA | Sep 2025 | 20th | 2H, 3M | TWAMM | Solidity/EVM |
-| Sherlock | Notional | Jul 2025 | 22nd | 1H | Leveraged Yield | Solidity/EVM |
-| Sherlock | LEND | Jun 2025 | 23rd | 1H, 1M | Lending | Solidity/EVM |
+| Sherlock | Raindrops Solana | Jul 2026 | 6 | Private | Private | Solana |
+| Dualguard | Alignerz | Nov 2025 | 10 | 7H, 3M | Token Launchpad | Solidity/EVM |
+| Sherlock | Flying Tuplip | Jan 2026 | 11 | / | PUT Options | Solidity/EVM |
+| Sherlock | Super-DCA | Sep 2025 | 20 | 2H, 3M | TWAMM | Solidity/EVM |
+| Sherlock | Notional | Jul 2025 | 22 | 1H | Leveraged Yield | Solidity/EVM |
+| Sherlock | LEND | Jun 2025 | 23 | 1H, 1M | Lending | Solidity/EVM |
 
 
 ### 📊 Competition Statistics
