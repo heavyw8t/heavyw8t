@@ -40,10 +40,12 @@ I'm an independent Security researcher/auditor with a background in neuroscience
 
 ### Private Audits
 
-| Protocol | Agency | Protocol Type | Language | Date | Link |
-|----------|--------|---------------|----------|------|------|
-| Divigent | OakSecurity | Agentic Yield | Solidity | April 2026 | [Report](https://github.com/oak-security/audit-reports/blob/main/Divigent/2026-05-15%20Audit%20Report%20-%20Divigent%20v1.1.pdf) |
-| TBA | OakSecurity | TBA | Solidity | July-August 2026 | TBA |
+| Protocol | Agency | Protocol Type | Language | Date | Type | Link |
+|----------|--------|---------------|----------|------|------|------|
+| Divigent | OakSecurity | Agentic Yield | Solidity | April 2026 | Full Audit| [Report](https://github.com/oak-security/audit-reports/blob/main/Divigent/2026-05-15%20Audit%20Report%20-%20Divigent%20v1.1.pdf) |
+| TBA | OakSecurity | TBA | Solidity | July-August 2026 | Full Audit | TBA |
+| TBA | Solo | Token Launchpad | Solidity | Sep 2026 | Full Audit | Private |
+| TBA | Solo | Token Launchpad | Solidity | Sep 2026 | PR Review | Private |
 
 ### CTF
 
