@@ -46,6 +46,7 @@ I'm an independent Security researcher/auditor with a background in neuroscience
 | Quip Network | OakSecurity | Post Quantum Wallets/Swaps | Solidity | July-August 2026 | Full Audit | [Report](https://github.com/oak-security/audit-reports/tree/main/Quip) |
 | TBA | Solo | Token Launchpad | Solidity | Sep 2026 | Full Audit | Private |
 | TBA | Solo | Token Launchpad | Solidity | Sep 2026 | PR Review | Private |
+| ClutchMarkets| SB Security | TBA | Solidity | Sep 2026 | Full Audit | TBA |
 
 ### CTF
 
