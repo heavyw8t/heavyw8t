@@ -47,6 +47,7 @@ I'm an independent Security researcher/auditor with a background in neuroscience
 | TBA | Solo | Token Launchpad | Solidity | Sep 2026 | Full Audit | Private |
 | TBA | Solo | Token Launchpad | Solidity | Sep 2026 | PR Review | Private |
 | ClutchMarkets| SB Security | TBA | Solidity | Sep 2026 | Full Audit | TBA |
+| TBA| SB Security | AMM Vault | Solidity | Okt 2026 | Full Audit | TBA |
 
 ### CTF
 
