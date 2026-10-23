@@ -46,10 +46,10 @@ I'm an independent Security researcher/auditor with a background in neuroscience
 | Quip Network | OakSecurity | Post Quantum Wallets/Swaps | Solidity | July-August 2026 | Full Audit | [Report](https://github.com/oak-security/audit-reports/tree/main/Quip) |
 | TBA | Solo | Token Launchpad | Solidity | Sep 2026 | Full Audit | Private |
 | TBA | Solo | Token Launchpad | Solidity | Sep 2026 | PR Review | Private |
-| StonkBrokers | SB Security | TBA | Solidity | Sep 2026 | Full Audit | [Report](https://github.com/SB-Security/audits/blob/master/reports/StonkBrokers-SmartLP-V2-Security-Review.pdf) |
-| TBA| Solo | TBA | Solidity | Okt 2026 | PR Review | TBA |
+| StonkBrokers | SB Security | AMM Vault | Solidity | Sep 2026 | Full Audit | [Report](https://github.com/SB-Security/audits/blob/master/reports/StonkBrokers-SmartLP-V2-Security-Review.pdf) |
 | TBA| Solo | TBA | Solidity | Okt 2026 | PR Review | TBA |
 | TBA| SB Security | AMM Vault | Solidity | Okt 2026 | Full Audit | TBA |
+| TBA| Solo | TBA | Solidity | Okt 2026 | PR Review | TBA |
 
 ### CTF
 
