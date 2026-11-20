@@ -40,16 +40,19 @@ I'm an independent Security researcher/auditor with a background in neuroscience
 
 ### Private Audits
 
-| Protocol | Agency | Protocol Type | Language | Date | Type | Link |
-|----------|--------|---------------|----------|------|------|------|
-| Divigent | OakSecurity | Agentic Yield | Solidity | April 2026 | Full Audit| [Report](https://github.com/oak-security/audit-reports/blob/main/Divigent/2026-05-15%20Audit%20Report%20-%20Divigent%20v1.1.pdf) |
-| Quip Network | OakSecurity | Post Quantum Wallets/Swaps | Solidity | July-August 2026 | Full Audit | [Report](https://github.com/oak-security/audit-reports/tree/main/Quip) |
-| TBA | Solo | Token Launchpad | Solidity | Sep 2026 | Full Audit | Private |
-| TBA | Solo | Token Launchpad | Solidity | Sep 2026 | PR Review | Private |
-| StonkBrokers | SB Security | AMM Vault | Solidity | Sep 2026 | Full Audit | [Report](https://github.com/SB-Security/audits/blob/master/reports/StonkBrokers-SmartLP-V2-Security-Review.pdf) |
-| TBA| Solo | TBA | Solidity | Okt 2026 | PR Review | TBA |
-| TBA| SB Security | AMM Vault | Solidity | Okt 2026 | Full Audit | TBA |
-| TBA| Solo | TBA | Solidity | Okt 2026 | PR Review | TBA |
+| Protocol | Firm | Protocol type | Language | Date | Type | Report |
+|---|---|---|---|---|---|---|
+| Clank Trade | Solo | Token launchpad | Solidity | Nov 2026 | PR review | Private |
+| TBA | SB Security | TBA | TBA | Oct to Nov 2026 | Full audit | TBA |
+| Clank Trade | Solo | Token launchpad | Solidity | Oct 2026 | PR review | Private |
+| Clank Trade | Solo | Token launchpad | Solidity | Oct 2026 | PR review | Private |
+| TBA | SB Security | AMM vault | Solidity | Oct 2026 | Full audit | TBA |
+| Clank Trade | Solo | Token launchpad | Solidity | Oct 2026 | PR review | Private |
+| StonkBrokers | SB Security | AMM vault | Solidity | Sep 2026 | Full audit | [Report](https://github.com/SB-Security/audits/blob/master/reports/StonkBrokers-SmartLP-V2-Security-Review.pdf) |
+| Clank Trade | Solo | Token launchpad | Solidity | Sep 2026 | PR review | Private |
+| Clank Trade | Solo | Token launchpad | Solidity | Sep 2026 | Full audit | Private |
+| Quip Network | Oak Security | Post-quantum wallets, swaps | Solidity | Jul to Aug 2026 | Full audit | [Report](https://github.com/oak-security/audit-reports/tree/main/Quip) |
+| Divigent | Oak Security | Agentic yield | Solidity | Apr 2026 | Full audit | [Report](https://github.com/oak-security/audit-reports/blob/main/Divigent/2026-05-15%20Audit%20Report%20-%20Divigent%20v1.1.pdf) |
 
 ### CTF
 
