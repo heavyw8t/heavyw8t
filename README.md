@@ -91,11 +91,7 @@ Wonderland CTF Ethcc 2026 | 3rd Place
 
 ### Educational Resources
 
-**1. Heavyw8ts' ultimate repository for new (and not so new) auditors** - [In development]
-- Comprehensive guide to common vulnerability patterns
-- Includes examples and mitigation strategies
-- Curated post-mortems and write-ups
-- Collection of learning resources and CTFs
+- **Heavyw8t's Security Academy**: free interactive lessons and checklists for new web3 auditors, covering protocols from the math up, new chains and languages, and AI for security (https://heavyw8t.github.io/academy/)
 
 ---
 
